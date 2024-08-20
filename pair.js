@@ -60,18 +60,18 @@ router.get('/', async (req, res) => {
                  let messg = `
     *_Pair Successful🥵._*
 put the above ID in the sessID variable when deploying .
-Use this Session ID for all bots by Tᴀɪʀᴀ Mᴀᴋɪɴᴏ.
+Use this Session ID for all bots by 𝕮𝖔𝖑𝖑𝖎𝖓𝖘 𝕾𝖒𝖎𝖙𝖍.
 ╔═════◇
-║       『••• Tᴀɪʀᴀ TECH•••』
-║ *Channel:* _https://whatsapp.com/channel/0029Vag5l2ALSmbi14YryJ2r_
-║ *Main GC:* _https://chat.whatsapp.com/EKdfDFDoi5C3ck88OmbJyk_
-║ *Github:* _https://github.com/anonphoenix007_
-║ *Owner:* _https://t.me/Tha_Healer_
+║       『••• 𝑻𝑯𝑼𝑵𝑫𝑬𝑹-𝑪𝑳𝑨𝑺𝑺𝑰𝑪-𝑩𝑼𝑮ᵇᵒᵗ•••』
+║ *Channel:* _https://chat.whatsapp.com/DvlAsj0BhA5FgQS7LARxBo
+║ *Main GC:* _https://https://chat.whatsapp.com/DvlAsj0BhA5FgQS7LARxBo
+║ *Github:* _https://github.com/smith-pixe/Thunder-Classic-Bugbot
+║ *Owner:* _https://t.me/collin254
 ║ *Note :*_Do not provide your SESSION_ID to_
 ║ _anyone otherwise that can access your WA messages_
 ║ _*Follow Me and Star my repo for more 🫡.*_
 ╚════════════════════════╝`
- await TAIRA_TECH_SESSION.sendMessage(TAIRA_TECH_SESSION.user.id,{text:messg },{quoted:session})
+ await Smith_TECH_SESSION.sendMessage(Smith_tech_SESSION.user.id,{text:messg },{quoted:session})
  
 
         await delay(100);
